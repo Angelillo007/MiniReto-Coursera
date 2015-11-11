@@ -24,7 +24,7 @@ import UIKit
     
     if (numero%5 == 0)  {
     
-    print("\(numero) son divisible entre 5 y  #Bingo!! \(numero) es par y #par" )
+    print("\(numero) son divisible entre 5 y  #Bingo!!" )
     
     }
     }
